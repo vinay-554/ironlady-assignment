@@ -44,3 +44,23 @@ This assistant acts as a **first-level AI support system**.
 - **Communication:** REST APIs
 
 ---
+
+## 📸 Application Screenshots
+
+### AI Guidance Assistant – User Flow
+
+**1. Application Interface**
+![UI](screenshots/task1-ui.png)
+
+**2. User Greeting**
+![Greeting](screenshots/task1-greeting.png)
+
+**3. Programs Explanation**
+![Programs](screenshots/task1-programs.png)
+
+**4. AI Recommendation**
+![Recommendation](screenshots/task1-recommendation.png)
+
+**5. Guidance & Next Steps**
+![Next Steps](screenshots/task1-next-steps.png)
+
