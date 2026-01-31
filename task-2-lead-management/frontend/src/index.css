@@ -1,0 +1,113 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6fb;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.form input {
+  padding: 8px;
+}
+
+.form button {
+  padding: 8px 14px;
+  background: #6366f1;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  margin: 2px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+.action-buttons {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+}
+
+.btn {
+  padding: 6px 12px;
+  font-size: 13px;
+  border-radius: 4px;
+  border: 1px solid #999;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.btn.contacted {
+  background-color: #f2f2f2;
+}
+
+.btn.enrolled {
+  background-color: #e6f0ff;
+  border-color: #5b7cfa;
+}
+
+.btn.delete {
+  background-color: #ffeaea;
+  border-color: #ff6b6b;
+  color: #b30000;
+}
+
+.status {
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.status.new {
+  background-color: #e3f2fd;
+  color: #1565c0;
+}
+
+.status.contacted {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.status.enrolled {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.form select {
+  padding: 8px;
+}
