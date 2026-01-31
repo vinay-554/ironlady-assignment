@@ -49,18 +49,29 @@ This assistant acts as a **first-level AI support system**.
 
 ### AI Guidance Assistant – User Flow
 
-**1. Application Interface**
-![UI](screenshots/task1-ui.png)
+#### 1. Application Interface
+<p align="center">
+  <img src="screenshots/task1-ui.png" width="600" alt="Application Interface"/>
+</p>
 
-**2. User Greeting**
-![Greeting](screenshots/task1-greeting.png)
+#### 2. User Greeting
+<p align="center">
+  <img src="screenshots/task1-greeting.png" width="600" alt="User Greeting"/>
+</p>
 
-**3. Programs Explanation**
-![Programs](screenshots/task1-programs.png)
+#### 3. Programs Explanation
+<p align="center">
+  <img src="screenshots/task1-programs.png" width="600" alt="Programs Explanation"/>
+</p>
 
-**4. AI Recommendation**
-![Recommendation](screenshots/task1-recommendation.png)
+#### 4. AI Recommendation
+<p align="center">
+  <img src="screenshots/task1-recommendation.png" width="600" alt="AI Recommendation"/>
+</p>
 
-**5. Guidance & Next Steps**
-![Next Steps](screenshots/task1-next-steps.png)
+#### 5. Guidance & Next Steps
+<p align="center">
+  <img src="screenshots/task1-next-steps.png" width="600" alt="Next Steps"/>
+</p>
+
 
